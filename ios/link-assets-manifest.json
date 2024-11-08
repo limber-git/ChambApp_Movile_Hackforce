@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/Fonts/Hanuman-Bold.ttf",
+      "sha1": "26c804ded403e4ef89a5baba89077bb59075ebde"
+    },
+    {
+      "path": "src/assets/Fonts/Monoton-Regular.ttf",
+      "sha1": "153a328e43fe091266e300116d93536044d74109"
+    },
+    {
+      "path": "src/assets/Fonts/Noto-Serif.ttf",
+      "sha1": "579aa0e06569368270a26d2ece86ed7a7f19335f"
+    },
+    {
+      "path": "src/assets/Fonts/zocial.ttf",
+      "sha1": "6a48a962b06cc3acbdfd61df0d9a34744eea5e8d"
+    }
+  ]
+}
